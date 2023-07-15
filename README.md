@@ -1,16 +1,29 @@
-### Hi there 👋
+```text
+Here is my PGP public key, you can trust any content encrypted
 
-<!--
-**KFERMercer/KFERMercer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+or signed with this key if this key is valid:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZLLmchYJKwYBBAHaRw8BAQdA/I9+csp8Xj7pYHt0fB5OjbsZztbXzhpR0BB+
+dI3mt2a0mktGRVJNZXJjZXIgKFBlcnNvbmFsIEVDQy0yNTUxOSBrZXkgcGFpciBm
+b3IgS0ZFUk1lcmNlci4gVHJ1c3QgYW55IGNvbnRlbnQgZW5jcnlwdGVkIG9yIHNp
+Z25lZCB3aXRoIHRoaXMga2V5IGlmIHRoaXMga2V5IGlzIHZhbGlkLikgPEtGRVIu
+TWVyY2VyQGdtYWlsLmNvbT6IkAQTFggAOBYhBIlJjhY2Z9I7LhG0StlPuNKUhU9D
+BQJksuZyAhsDBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJENlPuNKUhU9Dl5cA
+/izD/1VDwJjez+azzDWJfdEzAIbb7dEtNZmHZdTjtzTyAQD0/QtcMITznWDq+aCR
+T7mYIm/lgAZQ9OCa8lE16qCqCbg4BGSy5nISCisGAQQBl1UBBQEBB0C85jZDLGB9
+QPrkEiSWooMbrQB9IXWlkRPEeVmIXReyIQMBCAeIfgQYFggAJgIbDBYhBIlJjhY2
+Z9I7LhG0StlPuNKUhU9DBQJksvlvBQklmBj9AAoJENlPuNKUhU9DkDwBALqaQRig
+loLDhD0aNh95XVYgPgTzomTE54XbU5OAMfqUAQDnJA/JcvUkN2HhB0yTfMTSc/dG
+v0v+vX5rddS1EJ+fCbgzBGSy6fgWCSsGAQQB2kcPAQEHQKMepzQFUJhvLO2bXLTX
+OUJs+bPMV2RBDuSiws9rCKpXiPUEGBYIACYCGwIWIQSJSY4WNmfSOy4RtErZT7jS
+lIVPQwUCZLL5eAUJJZgVdwCBdiAEGRYIAB0WIQT92Uz3/wtBN2JVTGP7m4Omiqid
+iAUCZLLp+AAKCRD7m4OmiqidiDAjAQDd5WETVZZRfWoExScYzWzZR3vKNCDS0ASb
+k5h3laRjHwD/Xyf/tYIWnj8NErf4RLdlYXaja/FrUUh0wSme5QQZUAgJENlPuNKU
+hU9DpZsA+gJ3kdrD4IHqRyX9B0ZZSOvF5BlcHbhtntgppW5A6MY/AP4lqz+j5DZg
+efhic9c0XObO0ufBiQqWlWYzkW6N8/VRCg==
+=pV1r
+-----END PGP PUBLIC KEY BLOCK-----
+```
