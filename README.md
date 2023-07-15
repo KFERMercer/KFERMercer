@@ -2,8 +2,9 @@
 Here is my PGP public key, you can trust any content encrypted
 
 or signed with this key if this key is valid:
+```
 
-
+```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEZLLmchYJKwYBBAHaRw8BAQdA/I9+csp8Xj7pYHt0fB5OjbsZztbXzhpR0BB+
@@ -26,4 +27,8 @@ hU9DpZsA+gJ3kdrD4IHqRyX9B0ZZSOvF5BlcHbhtntgppW5A6MY/AP4lqz+j5DZg
 efhic9c0XObO0ufBiQqWlWYzkW6N8/VRCg==
 =pV1r
 -----END PGP PUBLIC KEY BLOCK-----
+```
+
+```text
+Key fingerprint = 8949 8E16 3667 D23B 2E11  B44A D94F B8D2 9485 4F43
 ```
