@@ -29,6 +29,8 @@ efhic9c0XObO0ufBiQqWlWYzkW6N8/VRCg==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-```text
-Key fingerprint = 8949 8E16 3667 D23B 2E11  B44A D94F B8D2 9485 4F43
+```shell
+# You can import my key like this:
+
+gpg --receive-keys 0x89498E163667D23B2E11B44AD94FB8D294854F43
 ```
