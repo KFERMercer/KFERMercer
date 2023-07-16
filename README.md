@@ -1,14 +1,13 @@
+Here is my PGP public key, you can trust any content encrypted or signed with this key **if the key is valid**.
+
+You can import my key like this:
+
 ```shell
-# Here is my PGP public key, you can trust any content encrypted
-
-# or signed with this key if this key is valid.
-
-# You can import my key like this:
-
 gpg --receive-keys 0x89498E163667D23B2E11B44AD94FB8D294854F43
-
-# Or import my key manualy:
 ```
+
+Or install the key manualy:
+
 
 <details>
 
