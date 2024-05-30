@@ -1,15 +1,6 @@
-Here is my PGP public key, you can trust any content encrypted or signed with this key **if the key is valid**.
-
-Import my key like this:
-
 ```shell
 gpg --receive-keys 0x89498E163667D23B2E11B44AD94FB8D294854F43
 ```
-
-Or install the key manualy:
-
-
-<details>
 
 ```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -35,5 +26,3 @@ efhic9c0XObO0ufBiQqWlWYzkW6N8/VRCg==
 =pV1r
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
-</details>
