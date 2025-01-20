@@ -2,7 +2,8 @@
 gpg --receive-keys 0x89498E163667D23B2E11B44AD94FB8D294854F43
 ```
 
-```text
+```shell
+cat <<EOK | gpg --import
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEZLLmchYJKwYBBAHaRw8BAQdA/I9+csp8Xj7pYHt0fB5OjbsZztbXzhpR0BB+
@@ -25,4 +26,5 @@ hU9DpZsA+gJ3kdrD4IHqRyX9B0ZZSOvF5BlcHbhtntgppW5A6MY/AP4lqz+j5DZg
 efhic9c0XObO0ufBiQqWlWYzkW6N8/VRCg==
 =pV1r
 -----END PGP PUBLIC KEY BLOCK-----
+EOK
 ```
